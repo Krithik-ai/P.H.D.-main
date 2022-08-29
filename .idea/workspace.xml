@@ -14013,6 +14013,7 @@
       <change afterPath="$PROJECT_DIR$/../venv/lib/python3.9/site-packages/zipp-3.8.1.dist-info/top_level.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../venv/lib/python3.9/site-packages/zipp.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
